@@ -8,7 +8,7 @@ This was created while following videos in 'Section 2: Terraform Basics and Dock
 
 
 
-![endstate](images/endstate.png)
+![endstate](modules_endstate_logical_map.png)
 
 
 
